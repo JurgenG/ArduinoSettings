@@ -1,0 +1,25 @@
+// Any line starting with one forward slash will be considered comment.
+// So the typical // will also serve as a comment.
+
+// Measure CO2-level
+co2 = 1
+
+// Don't measure relative humidity
+rh = 0
+
+// Measure temperature
+temp = 1
+
+// Don't measure light strenght
+lux = 0
+
+// Don't pre-heat module
+heater = 0
+
+// Location identifier
+location = Bathroom
+
+// Other parameters are unknown and will be ignored
+xrayvision = 1
+evilcommand = 0
+myname = jurgen
